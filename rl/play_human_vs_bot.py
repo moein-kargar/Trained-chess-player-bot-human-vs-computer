@@ -3,6 +3,7 @@ import pygame
 import pygame.freetype
 import torch
 
+
 from settings import WIDTH, HEIGHT, FPS, SQUARE_SIZE
 from rules import is_in_check
 
